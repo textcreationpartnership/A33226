@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Clamor sanguinis, or, The Cry of blood being a short but true account of a barbarous and bloody assault made on Thursday night, the 15th of this instant April, 1680, on the body of John Arnold, Esq., one of His Majesties justices of the peace for the county of Monmouth, who at this instant lyes desparately wounded at his lodgings near Temple-bar, London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33226</idno>
+            <idno type="STC">Wing C4404</idno>
+            <idno type="STC">ESTC R35639</idno>
+            <idno type="EEBO-CITATION">15504593</idno>
+            <idno type="OCLC">ocm 15504593</idno>
+            <idno type="VID">103601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103601)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Clamor sanguinis, or, The Cry of blood being a short but true account of a barbarous and bloody assault made on Thursday night, the 15th of this instant April, 1680, on the body of John Arnold, Esq., one of His Majesties justices of the peace for the county of Monmouth, who at this instant lyes desparately wounded at his lodgings near Temple-bar, London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arnold, John, --  Justice.</term>
+               <term>Giles, John, --  of Usk.</term>
+               <term>Assault and battery --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:103601:1"/>
+            <!-- PDF PAGE 55 -->
+            <head>
+               <hi>CLAMOR SANG<g ref="char:V">Ʋ</g>INIS:</hi> OR, THE CRY of BLOOD.</head>
+            <head type="sub">Being a Short, but True ACCOUNT OF A Barbarous and Bloody Aſſault made on <hi>Thurſday</hi> Night, the 15th of this Inſtant <hi>April,</hi> 1680. On the Body of John Arnold, <abbr>Eſq</abbr> One of His Majeſties Juſtices of the Peace for the County of <hi>MONMO<g ref="char:V">Ʋ</g>TH.</hi> Who at this Inſtant lyes deſparately Wounded at his Lodgings, near <hi>Temple-Bar, London.</hi>
+            </head>
+            <epigraph>
+               <q>The tender Mercies of the wicked are Cruelty.</q>
+            </epigraph>
+            <p>THE great Creator made Man in his own Image, and there<g ref="char:EOLhyphen"/>fore forbad in his Holy and Righteous Law any attempt to be made for the deſtruction of him; and was pleaſed early to provide for his ſafety, by making it expreſly Penal on whomſoever ſhould ſhed Blood wilfully: <hi>He that ſheddeth mans blood, by man ſhall his blood be ſhed.</hi> Yet ſo miſerably corrupted are our Natures, that forgetting theſe Holy Commands, almoſt every Week affords us ſad and lamentable Examples of the <hi>Cry of Blood</hi> againſt our Land, and amongſt too many others we cannot but with horror par<g ref="char:EOLhyphen"/>ticularly remember that infamous Murder committed by the, <hi>Papiſts,</hi> on
+<pb n="2" facs="tcp:103601:2"/>
+               <!-- PDF PAGE 56 -->
+that Vigilant, Worthy and Renowned Juſtice, Sir <hi>Edmondbury Godfrey,</hi> whoſe remembrance ought never to be blotted out of the Memory of every Loyal Proteſtant, and one of whoſe Succeſſors (in Vigilance, and laborious Endeavours for Diſcovery of the Plot, and obliging the auda<g ref="char:EOLhyphen"/>cious Papiſts to conform to the Kings Majeſties Laws) that Worthy Gen<g ref="char:EOLhyphen"/>tleman the ſubject of this preſent Diſcourſe was.</p>
+            <p>Therefore to detain you no longer in an unneceſſary preamble, be pleaſed to know, that <hi>John Arnold,</hi> 
+               <abbr>Eſq</abbr> One of His Majeſties Juſtices of Peace for the County of <hi>Monmouth,</hi> having been ſome years before the Diſcovery of the late horrid Plot, eſteemed a loyal and dutiful Subject, and uſeful Perſon in his Countrey: It pleaſed His Majeſty to put him into the Commiſſion of the Peace for the County where his Eſtate and Family is; where his Demeanor was ſuch in His Majeſties ſervice, as was well approved by all, except the Papiſts, who were, and yet are very numerous in that County, againſt ſome of whom at the Aſſizes he had given Information, and proſecuted, as he was bound by his Oath and Duty of his place to perform; yet ſo it was at that time, that a little before the Plot brake out, he was put out of Commiſſion, and coming to <hi>London,</hi> was very deſirous to underſtand his Offence; and being informed that <hi>Coleman</hi> (then a Servant to the Duke of <hi>York,</hi> ſince Executed at <hi>Tyburn</hi> for the deſign to Murder the King, and bring in Po<g ref="char:EOLhyphen"/>pery into this Nation, <hi>&amp;c.</hi>) had offered ſomewhat in his prejudice: He went to the ſaid <hi>Coleman,</hi> deſiring to know what he had to charge him withall, for he was ready to anſwer any Miſdemeanor before King and Council; but received nothing elſe of an anſwer from him, but inſolent and ſawcy language, refuſing to give him opportunity to ſpeak with his Maſter, and ſaying, <hi>He was not at leaſure to anſwer ſuch a Fellow as he was;</hi> which being ſpoke to a Gentleman of his worth, you may well imagine could not but move him to ſome paſſion; and amongſt other expreſſions, he parted with this fatal Oracle to <hi>Coleman, Sirrah, I ſhall live to ſee you hanged.</hi> But ſuddenly after the Plots breaking out, His Majeſty was pleaſed to put Mr. <hi>Arnold</hi> again into a larger Commiſſion than before; ſince which it is abundantly known to all men, how care<g ref="char:EOLhyphen"/>ful and painful he hath been in the Kings Service, particularly in diſco<g ref="char:EOLhyphen"/>vering the <hi>Jeſuits</hi> Colledge, Books, and Popiſh Trinquets in <hi>Hereford<g ref="char:EOLhyphen"/>ſhire,</hi> which he by Order of Councel publickly cauſed to be Burnt; Al<g ref="char:EOLhyphen"/>ſo his ſeizing and proſecuting Father <hi>Lewis,</hi> that notorious Villain and Prieſt, and divers others; Alſo his earneſt endeavour to inform the Judges againſt admitting Papiſt Grand Jurors in the Counties where they came.</p>
+            <p>Theſe publick ſervices for his King and Countrey, you may well believe by this time of day had made him more Enemies of the <hi>Papiſt</hi> Party, be<g ref="char:EOLhyphen"/>ing frequently threatned by them to be murdered, and particularly by one <hi>Evans;</hi> which <hi>Evans</hi> was a Jeſuit, executed in the County of <hi>Cla<g ref="char:EOLhyphen"/>morgan;</hi> and who ſome time before his apprehenſion had threatned to pi<g ref="char:EOLhyphen"/>ſtol Mr. <hi>Arnold:</hi> Yet it pleaſed God to preſerve him from their fury, till this inſtant time, when having been at a Tavern with ſome Lawyers of
+<pb n="3" facs="tcp:103601:2"/>
+               <!-- PDF PAGE 56 -->his acquaintance, near <hi>Temple-Bar,</hi> in order to prepare himſelf to a trial of ſome matters that were the next day to be heard before King and Coun<g ref="char:EOLhyphen"/>cil, and coming from thence about ten in the evening, the 16th of this inſtant, towards his Lodgings, which were not far off the ſaid Tavern; when he came by <hi>Bell-yard,</hi> near <hi>Jackanapes-lane</hi> end, Four or Five Bloody Aſſaſſinates (who no doubt had dogged him moſt part of the day, as Juſtice <hi>Godfrey</hi> was) coming cloſe up to him, on a ſudden threw a large Campane Cloak over his head, and muffled him up, and at that inſtant thruſt him into the dark part of the Lanes end, where they villanouſly threw him down, ſtamped on his breaſt, and made more than twenty thruſts of their ſwords at him; but not above ſeven took place on him, by rea<g ref="char:EOLhyphen"/>ſon of a Waſtcoat he wore (to keep his body ſtraight, not as armour, as is vainly reported) made with ſtiff Whale-bone; which in that hurry, and in the dark, they obſerving their ſwords would not enter to kill him dead, cryed out, <hi>The Rogue hath armour, therefore cut the Dogs throat;</hi> which immediately they attempted, by giving him many dreadful ſlaſhes on both ſides, yet ſo as by Gods good providence cut not his Wind-pipe, they only uſing theſe helliſh expreſſions, <hi>Damn ye Dog, now pray for the Soul of Cap<g ref="char:EOLhyphen"/>tain</hi> Evans: But at that inſtant a Link-boy coming by, they left the poor Gentleman miſerably mangled, yet living, and carried to his Lodging, not without ſome hopes of his recovery, though extreme dangerous, by rea<g ref="char:EOLhyphen"/>ſon of much loſs of blood, and thoſe inhumane bruiſes (<hi>Godfrey</hi>-like) on his breaſt.</p>
+            <p>We muſt not forget, that theſe bloody Villains were ſo intent on their curſed deſign, that in the hurry they wounded one of their own Com<g ref="char:EOLhyphen"/>panions in the Leg, which though eſcaped, will we hope prove a good occaſion of diſcovery, and for that (ſince the writing hereof) his Maje<g ref="char:EOLhyphen"/>ſty hath been pleaſed to iſſue out his Order of Council, declaring 100 <hi>l.</hi> to the Diſcoverer, and pardon for the fact to him that ſhall come in.</p>
+            <p>And thus we leave this worthy Engliſh-man to the care of his Chy<g ref="char:EOLhyphen"/>rurgeons, and deſire (if it might ſo pleaſe God) he may yet recover to be a living Monument of their mercileſs Cruelty. And in the mean time, though we cannot point out his Murderers, yet we verily believe they may be known by thoſe marks that Reverend perſon gave of the inhu<g ref="char:EOLhyphen"/>mane Murderers of Sir <hi>Edmondbury Godfrey,</hi> in his moſt excellent Fune<g ref="char:EOLhyphen"/>ral-Sermon for him, and even before his Murderers were known.</p>
+            <p>May all true Proteſtants be awakened at this ſad Cataſtrophe, yet not diſcouraged; but remember Admiral <hi>Coligni</hi> was ſhot in his Coach at <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> which proved but a diſmal Prologue to that <hi>Pariſian</hi> Maſſacre that fol<g ref="char:EOLhyphen"/>lowed ſome days after, wherein he himſelf, with many thouſands of Pro<g ref="char:EOLhyphen"/>teſtants were moſt inhumanely butchered by the Papiſts.</p>
+            <p>And becauſe we are on ſo ſad a Theme, we would not have it forgot<g ref="char:EOLhyphen"/>ten, how Mr. <hi>Mowbray,</hi> and Evidence for the King againſt the Plotters in <hi>York-ſhire,</hi> was lately aſſaulted and ſtabbed as he paſſed <hi>Lincolns-Inn-fields;</hi> and little leſs is daily done by thoſe that ſtab the Kings Evidences in baſe
+<pb n="4" facs="tcp:103601:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 57 -->
+Calumnies on their perſons and reputations, who have ſo clearly proved a Plot againſt the Kings Life and Kingdom by the Papiſts, that both King, Lords and Commons have declared a full ſatisfaction in it.</p>
+            <p>To conclude: You have now ſeen the King ſtabb'd as it were in <hi>Effigie,</hi> in Two of His Juſtices of the Peace, in the ſpace of little more than one year, by theſe Sons of Violence, to the great diſhonour of God, and againſt the Crown and Dignity of the King. What remains, but to beſeech God to preſerve his Anointed from theſe ſons of <hi>Zerviah,</hi> and to abhor their curſed and ungoſpel-like Religion, and to be prepared to vindicate the Kings Honour, and the Proteſtant Religion againſt all op<g ref="char:EOLhyphen"/>poſers? To which we hope all good men will ſay,</p>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Janeway.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
